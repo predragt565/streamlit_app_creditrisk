@@ -1,0 +1,85 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Virtuelle Umgebungen
+venv/
+.env/
+*.venv/
+Pipfile
+Pipfile.lock
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Python sys files
+*.pyc
+*.pyo
+__pycache__/
+*.py[cod]
+*.code-workspace
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Output und Cache-Dateien
+*.log
+*.out
+*.err
+*.bak
+*.swp
+*.swo
+.DS_Store
+logs
+
+# VS Code Workspace und Settings
+.vscode/
+*.code-workspace
+
+# Python-Pakete & Build-Dateien
+*.egg-info/
+*.dist-info/
+build/
+dist/
+
+# Conda Umgebung
+env/
+.conda/
+*.conda
+
+# Jupyter Notebook Extensions & Caches
+.jupyter/
+.jupyter_cache/
+.ipython/
+__pycache__/
+
+# Matplotlib Cache
+~/.matplotlib/
+
+# ML Dateien
+*.keras
+
+# Unzipped data files
+unzipped_files
+
+# joblibe putpur:
+# *.pkl
+ 
